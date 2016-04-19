@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="/common-lib-svn/commons-logging.jar"/>
+	<classpathentry kind="lib" path="/common-lib-svn/commons-lang-2.3.jar" sourcepath="/home/sundaramtiwari/Downloads/Softwares/Jars/StringUtils.zip"/>
+	<classpathentry kind="lib" path="/common-lib-svn/javacsv.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
